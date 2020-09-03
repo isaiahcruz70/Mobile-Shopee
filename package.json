@@ -1,0 +1,24 @@
+{
+  "name": "mobileshopee",
+  "version": "1.0.0",
+  "description": "This is a fake ecommerce store. In this project there will be real and fake brands like iphones. This project is for learning more PHP and MYSQL databases.",
+  "main": "index.js",
+  "dependencies": {
+    "owl.carousel": "^2.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"sass ./sass/style.scss style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaiahcruz70/Mobile-Shopee.git"
+  },
+  "author": "Isaiah Cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaiahcruz70/Mobile-Shopee/issues"
+  },
+  "homepage": "https://github.com/isaiahcruz70/Mobile-Shopee#readme"
+}
